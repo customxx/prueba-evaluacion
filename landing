@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>prueba evaluacion</title>
+</head>
+<body>
+<h1><strong>mi landing page</strong></h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+<a href="https://www.google.cl" > Link a Google!</a>
+<img  src="https://s-media-cache-ak0.pinimg.com/originals/7f/42/38/7f4238a2e78f73f30940a8aa8fbd0acf.jpg"  style= "width: 100px; height: 100px" >
+<h2>Subtitulo</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h3>Lista</h3>
+<ol>
+	<li>elemento 1</li>
+	<li>elemento 2</li>
+	<li>elemento 3</li>
+</ol>
+</body>
+</html>
