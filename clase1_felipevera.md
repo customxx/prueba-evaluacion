@@ -49,3 +49,27 @@ r:rm: no se puede borrar 'recursivo': Es un directorio
 archivo que hay dentro?
 r:felipe@felipe-HP-Notebook:~$ rm -r recursivo
 
+17. Crear el directorio clase1
+r:felipe@felipe-HP-Notebook:~$ mkdir clase1
+18. Entrar a la clase1
+felipe@felipe-HP-Notebook:~$ cd clase1
+19. Crear el archivo hola
+r:felipe@felipe-HP-Notebook:~/clase1$ touch hola
+20. Crear el archivo chao
+r:felipe@felipe-HP-Notebook:~/clase1$ touch chao
+21. Borrar el archivo chao
+r:felipe@felipe-HP-Notebook:~/clase1$ rm chao
+22. Abrir con un editor el archivo hola y agregar “lorem ipsum”
+r:felipe@felipe-HP-Notebook:~/clase1$ nano hola 
+"lorem ipsum"
+
+23. Leer el archivo desde la línea de comandos utilizando cat
+r:felipe@felipe-HP-Notebook:~/clase1$ cat hola
+"lorem impsum"
+
+24. Leer el archivo utilizando el comando less
+r:felipe@felipe-HP-Notebook:~/clase1$ less hola
+
+
+
+
